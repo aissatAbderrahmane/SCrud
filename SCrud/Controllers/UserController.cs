@@ -11,7 +11,7 @@ namespace SCrud.Controllers
 
         public UserController(AppDataContext context)
         {
-            this.context = context;
+            this.context = context; 
         }
 
 
